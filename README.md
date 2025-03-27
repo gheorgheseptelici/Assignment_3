@@ -12,6 +12,6 @@ All the data from the 'genreLyrics.csv' file was converted into a Pandas DataFra
 | pg_zero_shot | The genre label predicted by the model using the 'Zero-Shot' strategy       |
 | pg_few_shots | The genre label predicted by the model using the 'Few-Shot' strategy        |
 
-A discussion of the results has been submitted in a separate report on Brightspace.
+The experiment was run in Google Colab, thus medium-specific code was implemented. All the files from this repository should be downloaded. The .csv files can be assigned manually once downloaded, using the import function of the google.colab package. A discussion of the results has been submitted in a separate report on Brightspace.
 
 
